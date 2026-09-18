@@ -7,7 +7,7 @@ Application composee d'un frontend React et d'un backend Express connecte a MySQ
 - Node.js et npm
 - MySQL en local
 - Une base de donnees nommee `infinite_db`
-- Une table `users` compatible avec le modele du backend
+- Une table `utilisateur` compatible avec le modele du backend
 
 La configuration actuelle utilise MySQL sur `localhost`, avec l'utilisateur `root` sans mot de passe.
 
